@@ -22,7 +22,7 @@ To implement univariate Linear Regression to fit a straight line using least squ
 '''
 Program to implement univariate Linear Regression to fit a straight line using least squares.
 Developed by: EASWAR R
-RegisterNumber:  212223230053
+RegisterNumber: 212223230053
 '''
 
 import numpy as np
@@ -45,10 +45,14 @@ print('Y_predicted :',y_predicted)
 plt.scatter(x,y)
 plt.plot(x,y_predicted,color='red')
 plt.show()
+print("Name : EASWAR R")
+print("Reg.No : 212223230053")
 ```
 
 ## Output:
-![ml ex1](https://github.com/user-attachments/assets/2902f598-b1be-4246-9276-6ff4659ee9b3)
+
+![EX_1_OUTPUT_1](https://github.com/user-attachments/assets/8cba0a1a-1593-458a-8ad6-6ab759a974de)
+
 
 ## Result:
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares using python programming.
