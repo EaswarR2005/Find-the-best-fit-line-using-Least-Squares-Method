@@ -51,7 +51,8 @@ print("Reg.No : 212223230053")
 
 ## Output:
 
-![EX_1_OUTPUT_1](https://github.com/user-attachments/assets/8cba0a1a-1593-458a-8ad6-6ab759a974de)
+![image](https://github.com/user-attachments/assets/9d5f4e79-77af-4bcc-8aff-a3e3ee35623e)
+
 
 
 ## Result:
